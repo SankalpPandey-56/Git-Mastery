@@ -107,14 +107,20 @@ live in [PRODUCT.md](./PRODUCT.md).
 
 ## 🚦 Getting started
 
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) 20 or newer
+
+### Installation
+
 ```bash
-git clone https://github.com/MikaStiebitz/Git-Mastery
+git clone https://github.com/MikaStiebitz/Git-Mastery.git
 cd Git-Mastery
 npm install
 npm run dev
 ```
 
-Then open <http://localhost:3000>. Node 20 or newer.
+Then open [http://localhost:3000](http://localhost:3000) in your browser.
 
 | Command            | What it does                       |
 | ------------------ | ---------------------------------- |
